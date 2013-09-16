@@ -1,0 +1,38 @@
+h1 {
+	position:relative;
+    left:50px;
+	font-size: 30px;
+	color: orange;
+	line-height: 20px;
+	display: block;
+}
+p {
+	position:relative;
+    left:50px;
+    right:300px;
+	color: green;
+	display: block
+}
+li {
+	position:relative;
+    left:15px;
+	color: green;
+	display: block
+	}
+
+img {
+	position:relative;
+    left:50px;
+	width: 500px;
+	height: 500px
+}
+#main {
+	width: 100%;
+}
+.headers {
+	font-style: italic
+}
+
+body { 
+	background: url('yellow.jpg'); 
+}
